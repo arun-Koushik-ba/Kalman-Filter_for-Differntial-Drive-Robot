@@ -11,8 +11,8 @@
 **A Complete Simulation of Simultaneous Localization and Mapping with Autonomous Navigation**
 
 *Visualize SLAM, Obstacle Avoidance, and Path Planning in Real-Time*
-
-[![Demo Video](https://img.shields.io/badge/▶️-Watch_Demo-red)](docs/demo.mp4)
+[![Demo Image](https://github.com/arun-Koushik-ba/Kalman-Filter_for-Differntial-Drive-Robot/blob/7b8c506ec01433a4cbda44efef998801ffdafe1c/image.png)
+[![Demo Video](https://img.shields.io/badge/▶️-Watch_Demo-red)](https://github.com/arun-Koushik-ba/Kalman-Filter_for-Differntial-Drive-Robot/blob/7b8c506ec01433a4cbda44efef998801ffdafe1c/Preview1.mp4)
 
 </div>
 
